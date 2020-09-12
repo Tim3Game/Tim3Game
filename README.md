@@ -3,8 +3,8 @@
 
 ### Tools, Languages, Frameworks, Wrappers, ...
 
-<a href=""><img align="left" alt="Visual Studio Code" height="24px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href=""><img align="left" alt="JetBrains Apps" height="24px" src="https://simpleicons.org/icons/jetbrains.svg" /></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" height="24px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://www.jetbrains.com/"><img align="left" alt="JetBrains Apps" height="24px" src="https://simpleicons.org/icons/jetbrains.svg" /></a>
 <a href=""><img align="left" alt="HTML5" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href=""><img align="left" alt="CSS3" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://sass-lang.com/"><img align="left" alt="SCSS" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
